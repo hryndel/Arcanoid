@@ -53,7 +53,7 @@ namespace Arcanoid
 
             platformX = (MapWidth - 1) / 2;
             platformY = MapHeight - 1;
-
+            
             ballY = platformY - 1;
             ballX = platformX + 1;
 
